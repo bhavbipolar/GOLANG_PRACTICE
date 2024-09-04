@@ -1,0 +1,3 @@
+module bugfind2
+
+go 1.23.0
